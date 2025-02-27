@@ -1,0 +1,10 @@
+@APISimulacaoEmprestimos_HostAddress = http://localhost:5215
+
+POST {{APISimulacaoEmprestimos_HostAddress}}/api/loans/simulate
+Content-Type: application/json
+
+{
+  "LoanAmount": 10000,
+  "LoanTerm": 24,
+  "InterestRate": 5.0
+}
