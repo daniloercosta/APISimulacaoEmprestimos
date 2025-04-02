@@ -5,3 +5,5 @@
 APISimulacaoEmprestimos.csproj.Backup.tmp
 /bin/Debug/net8.0
 /obj
+/.vs/APISimulacaoEmprestimos/DesignTimeBuild
+/.vs/ProjectEvaluation
